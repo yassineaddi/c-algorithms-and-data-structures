@@ -1,1 +1,1 @@
-# c-algorithms
+# c algorithms and data structures
